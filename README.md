@@ -1,4 +1,4 @@
-# tomtypes :: Go custom types
+# :cat2: tomtypes :: Go custom types
 
 Go custom types
 

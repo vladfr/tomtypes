@@ -1,0 +1,2 @@
+# tomtypes
+Go custom types

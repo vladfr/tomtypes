@@ -1,0 +1,3 @@
+publish:
+	go mod tidy && go test ./...
+	GOPROXY=proxy.golang.org go list -m github.com/vladfr/tomtypes@v0.1.0
